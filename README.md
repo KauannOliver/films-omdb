@@ -1,6 +1,3 @@
-# films-omdb
-System to search, display, and manage movies with OMDb API integration, personalized list, and browser-based data storage.
-
 # **Movie List Management System**
 
 This project is a movie management application that allows users to search, view, and maintain a personalized list of favorite movies by interacting with the OMDb API. The system provides a user-friendly interface and efficient tools for searching movies and managing a dynamic movie list, stored locally in the browser.
